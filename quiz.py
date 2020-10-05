@@ -6,3 +6,8 @@ if a==2:
 else:
   print("you are wrong")
     
+b=int(input("Enter total number of monitors you have"))
+if b==1:
+  print("You have only one monitor")
+  else:
+    print("you have more than one monitor")
